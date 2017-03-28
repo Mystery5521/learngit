@@ -1,0 +1,44 @@
+body{
+    padding: 20px;
+    font-size: 15px;
+}
+
+#area{
+    margin: 0 auto;
+    padding: 20px;
+    background: #eee;
+    border: 1px solid #999;
+    overflow: auto;
+    min-width: 600px;
+}
+
+.area1{
+    float: left;
+    padding: 20px;
+    width: 200px;
+    border: 1px solid ;
+}
+
+.area1 h1{
+    float: right;
+    font-size: small;
+}
+
+.area3{
+    float: right;
+    width: 120px;
+    border: 1px solid ;
+    display: block;
+}
+
+.area2{
+    border: 1px solid ;
+    margin-left: 260px;
+    margin-right: 140px;
+}
+
+.area31{
+    margin: 20px;
+    border: 1px solid #999;
+}
+
